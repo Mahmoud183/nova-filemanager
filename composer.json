@@ -1,5 +1,5 @@
 {
-    "name": "stepanenko3/nova-filemanager",
+    "name": "stepanenko3/nova-filemanager-nova-5",
     "description": "File manager tool for Laravel Nova",
     "keywords": [
         "laravel",
@@ -8,8 +8,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
-        "laravel/nova": "^4.0",
+        "php": "^8.1",
+        "laravel/nova": "^5.2.5",
         "pion/laravel-chunk-upload": "^1.5",
         "stepanenko3/laravel-helpers": "*",
         "stepanenko3/laravel-pagination": "*"
